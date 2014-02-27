@@ -6,7 +6,7 @@ It records open tags and closes accordingly.
 
 ###### Things to Do :
 - Enable Admin Features
--- Amount of Words
--- Remove img tags
+* Amount of Words
+* Remove img tags
 
 ==========
